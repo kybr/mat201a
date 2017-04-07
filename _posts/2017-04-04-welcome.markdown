@@ -11,7 +11,7 @@ categories:
 2. Review the syllabus and course website
 3. Learn how to turn in homework
 4. Setup IPython/Jupyter Notebook environment
-5. Image and Audio I/O (Notebook)
+5. [Image and Audio IO]({{site.url | append:site.baseurl}}/nb/Image and Audio IO.html) notebook
 
 
 ## Readings 1
