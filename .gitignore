@@ -17,6 +17,10 @@ _site
 .sass-cache
 .jekyll-metadata
 
-#image/
-#notes/
+# Jupyter Notebooks
+notebook/result/
+notebook/.ipynb_checkpoints/
 
+# 
+sync
+nb/
