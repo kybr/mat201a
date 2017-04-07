@@ -4,16 +4,12 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-|||
-|-----------|---------------------------|
-|When       | Tuesday & Thursday, 1-3PM |
-|Where      | Elings Hall, Room 2003    |
-|Instructor | Karl Yerkes               |
-|Assistant  | Lu Liu                    |
-|Hours      | 10-noon Thursday (Lu)     |
-|Hours      | 3-4:30 Tuesday & Thursday |
-
-<br/>
+- When: Tuesday & Thursday, 1-3PM
+- Where: Elings Hall, Room 2003
+- Instructor: Karl Yerkes
+  + Hours: 3-4:30 Tuesday & Thursday
+- Assistant: Lu Liu
+  + Hours: 10-noon Thursday
 
 Processing multi-media data is at the core of today's digital world. From image data mining through computer vision to audio processing and compression for Internet telephony, media signal processing is as ubiquitous as it is inconspicuous. This course hopes to serve as an introduction to the field of processing sound, image and video, from a theoretical perspective, but firmly grounded in practical applications and demonstrations. This course will explore fundamental concepts in digital signal processing, multimedia signal processing, and multimedia representations. It will deal with topics like audio and image filtering and feature extraction, gestural input and computer vision.
 
