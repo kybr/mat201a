@@ -8,6 +8,9 @@
 !*.markdown
 !*.yml
 
+# macos
+.DS_Store
+
 # Jekyll
 !Gemfile
 _site

@@ -40,7 +40,7 @@ Failure to meet any of the following requirements will result in a one-point (20
 
 -	The first cell in your iPython notebook must include the following text:
 ```python
-# MAT 201A Winter 2016 
+# MAT 201A Spring 2017
 # HW x
 # FirstName LastName
 # your.email@something.com
