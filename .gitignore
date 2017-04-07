@@ -1,0 +1,19 @@
+# Ignore files without any extension
+*
+!/**/
+!*.wav
+!*.png
+!*.ipynb
+!*.md
+!*.markdown
+!*.yml
+
+# Jekyll
+!Gemfile
+_site
+.sass-cache
+.jekyll-metadata
+
+#image/
+#notes/
+

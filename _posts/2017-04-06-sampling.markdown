@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Sampling and Quantization"
+date:   Thu Apr  6 12:38:04 PDT 2017
+categories:
+---
+
+## Today's Agenda
+1. ~~Introductions~~ (done)
+2. ~~Review the syllabus and course website~~ (done)
+3. ~~Learn how to turn in homework~~ (done)
+4. ~~Setup IPython/Jupyter Notebook environment~~ (done)
+5. Notebook: Image and Audio I/O (continuing)
+6. Notebook: Sampling and Quantization
+
+**Please remember that homework and reading was assigned in the [last post]({{ site.url | append:site.baseurl}}{% post_url 2017-04-04-welcome %})**
+
+## Some thoughts...
+
+I learned a really useful keyboard shortcut for Jupyter Notebook. Try _Shift-Tab_ while the cursor is on a function that you don't understand. Now try _Shift-Tab-Tab_.
+
+You will not learn from what _I_ do. You will learn from what _you_ do. Unfortunately, this course is currently not focused on excercises. Instead, it is heavy on lectures. Please do what you can to work around this limitation. Probably the best thing to do is to use Jupyter Notebook to take notes in class. Create a new notebook and use it try out things I show you in class. Copypaste cells you'd like to understand better.
