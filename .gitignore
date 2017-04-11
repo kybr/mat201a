@@ -3,6 +3,8 @@
 !/**/
 !*.wav
 !*.png
+!*.svg
+!*.gif
 !*.ipynb
 !*.md
 !*.markdown
