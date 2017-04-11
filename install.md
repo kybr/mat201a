@@ -9,6 +9,15 @@ Throughout this course, we will use [Jupyter Notebook](http://jupyter-notebook-b
 Install these tools using one of the procedures below. When Jupyter's browser interface opens, click on _Image and Audio IO.ipynb_. When that notebook opens, choose from the menu: _Kernel > Restart & Run All_. Check for things that look like errors and show the instructor or the TA.
 
 
+## Updates...
+
+You need to do this to get widgets (e.g., sliders, audio players, etc.) working...
+
+	pip3 install ipywidgets
+	jupyter nbextension enable --py --sys-prefix widgetsnbextension
+	
+
+
 ## macOS
 
 Open the Terminal app. It's in `/Applications/Utilities`. Now issue these commands:
@@ -44,11 +53,3 @@ Open PowerShell: Try <font style="font-family:Wingdings;">ÿ</font>-R, then type
 	copy .\afplay.vbs $HOME\AppData\Local\Microsoft\WindowsApps
 	jupyter notebook # this should launch your browser
 	
-
-## Updates...
-
-You need to do this...
-
-	pip3 install ipywidgets
-	jupyter nbextension enable --py --sys-prefix widgetsnbextension
-

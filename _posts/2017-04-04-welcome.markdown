@@ -23,7 +23,7 @@ Read [Chapter 3](http://www.dspguide.com/CH3.PDF) of [_The Scientist and Enginee
 
 ## Homework 1
 
-Produce a sound file from image data or an image file from sound data. Try to condition and select the data to make the results as interesting as possible. Submit your results using the procedure described on the [Homework]({{ site.url }}/homework) page by 2017-04-11 0600.
+Produce a sound file from image data or an image file from sound data. Try to condition and select the data to make the results as interesting as possible. Submit your results using the procedure described on the [Homework]({{ site.url | append:site.baseurl}}/homework) page by 2017-04-11 0600.
 
 Also, take a look at [PixiVisor](https://www.youtube.com/watch?v=_AcXzG6NzF0) and [VOSIS](https://www.youtube.com/watch?v=IxdKCItpq9g) for inspiration.
 
