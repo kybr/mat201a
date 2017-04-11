@@ -7,7 +7,7 @@ permalink: /syllabus/
 - When: Tuesday & Thursday, 1-3PM
 - Where: Elings Hall, Room 2003
 - Instructor: Karl Yerkes
-  + Hours: 3-4:30 Tuesday & Thursday
+  + Hours: 3-4:30 Tuesday & 2-3:30 Friday
 - Assistant: Lu Liu
   + Hours: 10-noon Thursday
 

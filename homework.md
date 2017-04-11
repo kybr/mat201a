@@ -16,6 +16,8 @@ Unless we say otherwise, **all assignments are due by 0600** (6AM) of the posted
 |------------|------------|------------|-------------|
 | Homework 1 | 2017-04-04 | 2017-04-11 | [welcome]({{ site.url | append:site.baseurl}}{% post_url 2017-04-04-welcome %}) |
 | Readings 1 | 2017-04-04 | 2017-04-11 | [welcome]({{ site.url | append:site.baseurl}}{% post_url 2017-04-04-welcome %}) |
+| Homework 2 | 2017-04-11 | 2017-04-18 | [phasors]({{ site.url | append:site.baseurl}}{% post_url 2017-04-11-phasors %}) |
+| Readings 2 | 2017-04-11 | 2017-04-18 | [phasors]({{ site.url | append:site.baseurl}}{% post_url 2017-04-11-phasors %}) |
 
 <br/>
 

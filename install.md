@@ -28,8 +28,8 @@ Open the Terminal app. It's in `/Applications/Utilities`. Now issue these comman
 	pip3 install numpy scipy Pillow matplotlib jupyter ipython
 	brew install git
 	cd your/file/system # choose where to put the course notebooks
-	git clone --depth 1 https://github.com/kybr/201A-ipython.git
-	cd 201A-ipython
+	git clone --depth 1 https://github.com/kybr/mat201a
+	cd mat201a
 	jupyter notebook # this should launch your browser
 	
 
@@ -48,8 +48,8 @@ Open PowerShell: Try <font style="font-family:Wingdings;">ÿ</font>-R, then type
 	pip install Pillow matplotlib jupyter ipython
 	scoop install git
 	cd your/file/system # choose where to put the course notebooks
-	git clone https://github.com/kybr/201A-ipython.git
-	cd 201A-ipython
+	git clone https://github.com/kybr/mat201a
+	cd mat201a
 	copy .\afplay.vbs $HOME\AppData\Local\Microsoft\WindowsApps
 	jupyter notebook # this should launch your browser
 	
