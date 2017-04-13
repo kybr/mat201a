@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Fourier Analysis"
+date:   Thu Apr 13 09:49:41 PDT 2017
+categories:
+---
+
+## Today's Notebook(s)
+
+1. ~~[Sinusoids and Phasors]({{site.baseurl}}/nb/Sinusoids and Phasors.html)~~
+2. [Fourier Analysis]({{site.baseurl}}/nb/Fourier Analysis.html)
+
+**Reminder: do the reading and the homework assigned in the [last post]({{site.baseurl}}{% post_url 2017-04-11-phasors %})**
+
+## Homework 1
+
+- <http://nbviewer.jupyter.org/gist/ananyaravi/4b267678bf98b3a70d039b9abcffa397>
+- <http://nbviewer.jupyter.org/gist/anonymous/add9e5348c4069d1dd1f91d1c992af11>
+- <http://nbviewer.jupyter.org/gist/anonymous/4c1f395017663f2f267f8fc0e004e508>
+- <http://nbviewer.jupyter.org/gist/sihwapark/4920b292cb4d4a66afa6348dde148596>
+- <http://nbviewer.jupyter.org/gist/mzleena/95c8445f4dbce2e87049ce801b641677>
+- <http://nbviewer.jupyter.org/gist/shashankmat/75f69469d7139404de05eb25dde5dc15>
+- <http://nbviewer.jupyter.org/gist/merttoka/84f7f63f6f5fa3cf28432ad908f997e3>
