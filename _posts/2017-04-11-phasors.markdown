@@ -15,10 +15,9 @@ categories:
 
 [An Interactive Guide To The Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform)
 
-## Homework 1
+## Homework 2
 
-
-Homework 2 (due 2017-04-18 0600)
+(due 2017-04-18 0600)
 
 Use image data as a spectrum on which you perform an Inverse Fourier Transform. i.e. Load an image and interpret each column (or row if you prefer) of pixel data as values of the FFT bins in an Short-Time Fourier Transform (STFT). Then, produce audio from these many STFTs by taking the IFT of each in succussion.
 
