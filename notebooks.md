@@ -8,6 +8,8 @@ permalink: /notebook/
 
 
 - [Arrays - Reshaping, Indexing, and Slicing]({{site.url | append:site.baseurl}}/nb/Arrays - Reshaping, Indexing, and Slicing.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Arrays - Reshaping, Indexing, and Slicing.ipynb))
+- [Audio Filters]({{site.url | append:site.baseurl}}/nb/Audio Filters.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Audio Filters.ipynb))
+- [Convolution]({{site.url | append:site.baseurl}}/nb/Convolution.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Convolution.ipynb))
 - [Example of Audio in nbviewer]({{site.url | append:site.baseurl}}/nb/Example of Audio in nbviewer.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Example of Audio in nbviewer.ipynb))
 - [Fourier Analysis]({{site.url | append:site.baseurl}}/nb/Fourier Analysis.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Fourier Analysis.ipynb))
 - [Homework2 (using irfft)]({{site.url | append:site.baseurl}}/nb/Homework2 (using irfft).html) ([raw]({{site.url | append:site.baseurl}}/notebook/Homework2 (using irfft).ipynb))
