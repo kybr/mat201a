@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Audio Filters"
+date:   Thu Apr 27 10:48:24 PDT 2017
+categories:
+---
+
+#### Audio Clips
+
+For the exercise today...
+
+[Mains_hum_60_Hz_01.wav]({{ site.url | append:site.baseurl}}/nb/Mains_hum_60_Hz_01.wav)
+[AlanWattsWithMainsHum.wav]({{ site.url | append:site.baseurl}}/nb/AlanWattsWithMainsHum.wav)
+
+#### [Z-transform][]
+
+Here's a decent book chapter on the Z-transform: [Basics of z-Transform
+Theory](http://ask.fxplus.ac.uk/tools/HELM/pages/workbooks_1_50_jan2008/Workbook21/21_2_bscs_z_trnsfm_thry.pdf).
+
+Read also, [Intuitively speaking, what does a Z-transform represent?](https://www.quora.com/Intuitively-speaking-what-does-a-z-transform-represent).
+
+> So a z-Transform is (in the most basic intuitive sense) a description of how to functionally build a system out of delay blocks.
+
+[Z-transform]: https://en.wikipedia.org/wiki/Z-transform
+
+https://docs.cycling74.com/max7/vignettes/audio_filtering
+
+#### [(Analog) Filter Primer][]
+> Abstract: This comprehensive article covers all aspects of analog filters. It first addresses the basic types: first- and second-order filters, highpass and lowpass filters, notch and all-pass filters, and high-order filters. The tutorial then explains the characteristics of the different implementations, such as Butterworth filters, Chebychev filters, Bessel filters, elliptic filters, state-variable filters, and switched-capacitor filters. 
+
+[(Analog) Filter Primer]: https://www.maximintegrated.com/en/app-notes/index.mvp/id/733

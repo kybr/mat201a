@@ -12,15 +12,6 @@ th, td { padding: 15px; text-align: left; }
 
 Unless we say otherwise, **all assignments are due by 0600** (6AM) of the posted due date.
 
-|   Thing    |  Assigned  |     Due    | Description |
-|------------|------------|------------|-------------|
-| Homework 1 | 2017-04-04 | 2017-04-11 | [welcome]({{ site.url | append:site.baseurl}}{% post_url 2017-04-04-welcome %}) |
-| Readings 1 | 2017-04-04 | 2017-04-11 | [welcome]({{ site.url | append:site.baseurl}}{% post_url 2017-04-04-welcome %}) |
-| Homework 2 | 2017-04-11 | 2017-04-18 | [phasors]({{ site.url | append:site.baseurl}}{% post_url 2017-04-11-phasors %}) |
-| Readings 2 | 2017-04-11 | 2017-04-18 | [phasors]({{ site.url | append:site.baseurl}}{% post_url 2017-04-11-phasors %}) |
-
-<br/>
-
 ## General Homework Information
 
 Homeworks are graded on a scale of 1 - 5. Keep in mind that grades will only be based on the nbviewer link you send via email, so make sure you proofread the nbviewer output to make sure everything rendered properly (including plots and embedded audio players / images).
