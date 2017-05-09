@@ -6,7 +6,6 @@ permalink: /notebook/
 
 - [Download all]({{site.url | append:site.baseurl}}/nb/notebook.tar.gz)
 
-
 - [Arrays - Reshaping, Indexing, and Slicing]({{site.url | append:site.baseurl}}/nb/Arrays - Reshaping, Indexing, and Slicing.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Arrays - Reshaping, Indexing, and Slicing.ipynb))
 - [Audio Filters (loose ends)]({{site.url | append:site.baseurl}}/nb/Audio Filters (loose ends).html) ([raw]({{site.url | append:site.baseurl}}/notebook/Audio Filters (loose ends).ipynb))
 - [Audio Filters]({{site.url | append:site.baseurl}}/nb/Audio Filters.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Audio Filters.ipynb))
@@ -20,5 +19,6 @@ permalink: /notebook/
 - [Random Distributions]({{site.url | append:site.baseurl}}/nb/Random Distributions.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Random Distributions.ipynb))
 - [Reverb]({{site.url | append:site.baseurl}}/nb/Reverb.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Reverb.ipynb))
 - [Sampling and Quantization]({{site.url | append:site.baseurl}}/nb/Sampling and Quantization.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Sampling and Quantization.ipynb))
+- [Signal Modeling]({{site.url | append:site.baseurl}}/nb/Signal Modeling.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Signal Modeling.ipynb))
 - [Sinusoids and Phasors]({{site.url | append:site.baseurl}}/nb/Sinusoids and Phasors.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Sinusoids and Phasors.ipynb))
 - [Variance and Correlation]({{site.url | append:site.baseurl}}/nb/Variance and Correlation.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Variance and Correlation.ipynb))

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Modeling"
+date:   Tue May  9 12:02:37 PDT 2017
+categories:
+---
+
+- [Notes](http://w2.mat.ucsb.edu/201A/2016/notes/Modeling.html)
+- [Signal Modeling]({{site.url | append:site.baseurl}}/nb/Signal Modeling.html)
+- [SPEAR](http://www.klingbeil.com/spear)
