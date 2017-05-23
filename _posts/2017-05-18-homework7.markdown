@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Homework 7"
+date:   Thu May 18 12:29:57 PDT 2017
+categories:
+---
+
+> Due in class today
+
+Download [Homework7.zip]({{ site.url | append:site.baseurl}}/Homework7.zip)
+1. Change the name of the notebook file to include your name
+2. Add the standard homework header at the top cell of the notebook
+3. Complete the missing parts of the notebook i.e., where it says "Your code here"
+4. Email just your notebook file to Karl and Lu
+
+Refer to Homework 4...
+* <http://nbviewer.jupyter.org/gist/anonymous/1909486cc26ec4676f8ee50d0b9de5fb>
+* <http://nbviewer.jupyter.org/gist/sihwapark/dcff7806a6962de875caaaaf50976bd3>
+* <http://nbviewer.jupyter.org/gist/anonymous/128207212534f6e4bf4567d588c4af71>
+* <http://nbviewer.jupyter.org/gist/ajavvadi/f691948e732904545c1e38aaeb7446f2>
+
+...as well as our notebook on Image Filtering and the Phase Vocoder:
+* [Image Filters]({{site.url | append:site.baseurl}}/nb/Image Filters.html)
+* [Phase Vocoder (Time Stretch)]({{site.url | append:site.baseurl}}/nb/Phase Vocoder (Time Stretch).html)
+
+Here's some other useful stuff:
+
+<http://nbviewer.jupyter.org/github/gestaltrevision/python_for_visres/blob/master/Part7/Part7_Image_Statistics.ipynb#Two-Dimensions>
+
+
