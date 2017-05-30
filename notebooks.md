@@ -6,10 +6,11 @@ permalink: /notebook/
 
 - [Download all]({{site.url | append:site.baseurl}}/nb/notebook.tar.gz)
 
-
 - [Arrays - Reshaping, Indexing, and Slicing]({{site.url | append:site.baseurl}}/nb/Arrays - Reshaping, Indexing, and Slicing.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Arrays - Reshaping, Indexing, and Slicing.ipynb))
 - [Audio Filters (loose ends)]({{site.url | append:site.baseurl}}/nb/Audio Filters (loose ends).html) ([raw]({{site.url | append:site.baseurl}}/notebook/Audio Filters (loose ends).ipynb))
 - [Audio Filters]({{site.url | append:site.baseurl}}/nb/Audio Filters.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Audio Filters.ipynb))
+- [Computer Vision II]({{site.url | append:site.baseurl}}/nb/Computer Vision II.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Computer Vision II.ipynb))
+- [Computer vision]({{site.url | append:site.baseurl}}/nb/Computer vision.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Computer vision.ipynb))
 - [Convolution]({{site.url | append:site.baseurl}}/nb/Convolution.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Convolution.ipynb))
 - [Example of Audio in nbviewer]({{site.url | append:site.baseurl}}/nb/Example of Audio in nbviewer.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Example of Audio in nbviewer.ipynb))
 - [Fourier Analysis]({{site.url | append:site.baseurl}}/nb/Fourier Analysis.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Fourier Analysis.ipynb))
@@ -29,5 +30,7 @@ permalink: /notebook/
 - [Signal Modeling II-LPC and compression]({{site.url | append:site.baseurl}}/nb/Signal Modeling II-LPC and compression.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Signal Modeling II-LPC and compression.ipynb))
 - [Signal Modeling]({{site.url | append:site.baseurl}}/nb/Signal Modeling.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Signal Modeling.ipynb))
 - [Sinusoids and Phasors]({{site.url | append:site.baseurl}}/nb/Sinusoids and Phasors.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Sinusoids and Phasors.ipynb))
+- [TensorFlow Learn (Draft)]({{site.url | append:site.baseurl}}/nb/TensorFlow Learn (Draft).html) ([raw]({{site.url | append:site.baseurl}}/notebook/TensorFlow Learn (Draft).ipynb))
 - [Variance and Correlation]({{site.url | append:site.baseurl}}/nb/Variance and Correlation.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Variance and Correlation.ipynb))
 - [Wavelets]({{site.url | append:site.baseurl}}/nb/Wavelets.html) ([raw]({{site.url | append:site.baseurl}}/notebook/Wavelets.ipynb))
+

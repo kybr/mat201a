@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Computer Vision"
+date:   Tue May 30 10:10:07 PDT 2017
+categories:
+---
+
+## What
+- Acquiring, processing, analyzing, and understanding images and, in general, high-dimensional data from the real world in order to produce numerical or symbolic information, e.g., in the forms of decisions.
+- <https://en.wikipedia.org/wiki/Computer_vision>
+- Computers are generally programmed for particular tasks
+- but methods based on learning are increasingly common
+- Single frame and multi-frame
+- High level Representations
+  + ![]({{ site.url | append:site.baseurl}}/image/representations.png)
+  + ![]({{ site.url | append:site.baseurl}}/image/realtional.png)
+
+## 2017
+- <https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition>
+  + <https://www.youtube.com/results?q=CVPR+2017>
+- <http://eecvc.com>
+  + <https://www.youtube.com/channel/UCAf9gq7QqxXLUUYFIAdG2Aw>
+- <https://en.wikipedia.org/wiki/Medical_Image_Understanding_and_Analysis_conference>
+
+
+## Applications
+- Agriculture
+  + Surveys
+  + Identification
+    * Disease
+    * parasite
+    * plant health
+    * ripeness
+- Biology
+  + Counting
+  + Tracking
+- Commercial
+  + Bank checks
+  + Bar code reading
+  + Currency verification and recognition
+- Document processing
+  + OCR
+- Media
+  + Augmented reality
+  + Video
+  + Image search
+  + Entertainment
+    * Image capture
+    * Animation
+- Forensic?
+- Human body
+  + Gestures
+    * Hands
+    * Body
+    * Face
+    * Eye tracking
+- Recognition
+  + Physical characteristics
+  + Handwriting
+- Industry
+  + Autonomous vehicles
+  + Inspection
+  + Employee alertness monitoring
+  + Part recognition
+- Medical
+- Military
+- Remote sensing
+  + Cloud identification/tracking
+  + Land use
+  + Terrain analysis
+- Robotics
+- Scientific
+  + Coronal analysis
+  + Protein folding recognition
+- Surveillance
+- Traffic and transport
+- <http://homepages.inf.ed.ac.uk/rbf/CVonline/applic.htm>
+
+## Tasks
+- Recognition
+  + Object recognition
+    * learned objects are found in an image
+  + Identification
+    * A known object can be identified
+    * e.g. faces, fingerprints, writing
+    * Shape identification and coding: 2D and 3D, movement and occlusion
+- Detection
+  + Find paticular details or abnormalities
+- Techniques
+  + Scale Invariant feature transform (SIFT)
+    * <https://en.wikipedia.org/wiki/Scale-invariant_feature_transform>
+  + Eigenfaces
+    * Averaging faces probabilistically
+    * Good at identifying faces
+  + Haar cascades
+    * <https://en.wikipedia.org/wiki/Haar-like_features>
+    * Good at telling where in a picture a face is
+  + Model estimation
+    * Skeleton tracking
+  + Gesture Recognition
+    * <https://en.wikipedia.org/wiki/Gesture_recognition>
+- Motion Analysis
+  + Motion
+    * Feature identification and association
+    * From a set of images captured with time separation
+    * Heuristics to help matching ![]({{ site.url | append:site.baseurl}}/image/motion_heuristics.png)
+  + Tracking
+  + Own motion
+  + Optical flow
+    * Both of the above
+    * <https://en.wikipedia.org/wiki/Optical_flow>
+    * <https://vimeo.com/36466564>
+    * <https://github.com/cysmith/neural-style-tf>
+  + Scene Reconstruction
+  + Image restoration/Stitching
+  + Machine Learning
+    * Pattern recognition and
+    * Interpretations based on prior experience
+  + Desicion Making
+    * Should automatic action be taken from the analysis?
+
+## References/Sources
+  + Ballard and Brown. Computer Vision. 1982
+  + Prince, S.. Computer Vision Models
+    * <http://www.computervisionmodels.com>
+  + <http://homepages.inf.ed.ac.uk/rbf/CVonline>

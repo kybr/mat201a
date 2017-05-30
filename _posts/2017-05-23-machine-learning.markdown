@@ -180,9 +180,9 @@ Machine Learning techniques: Linear Regression, K-means, Decision Trees, Random 
     * Accuracy
       - Percent of correct identifications
 
-## Deep Leanring for Audio/Visual work
+## Deep Learning for Audio/Visual work
 
-...The really coo stuff:
+...The really cool stuff:
 
 - <https://deepdreamgenerator.com/gallery>
   + <https://github.com/google/deepdream/blob/master/dream.ipynb>
@@ -222,4 +222,9 @@ Machine Learning techniques: Linear Regression, K-means, Decision Trees, Random 
   + <https://www.youtube.com/watch?v=dQvP_pD46hE>
 * <http://norvig.com>
   + <http://www.norvig.com/ipython/README.html>
-
+* <https://aiexperiments.withgoogle.com>
+* datasets:
+  + <https://archive.ics.uci.edu/ml/datasets.html>
+  + <http://www.audiocontentanalysis.org/data-sets>
+* Hidden Markov Models
+  + <http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017>
